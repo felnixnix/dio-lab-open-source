@@ -7,6 +7,7 @@ Meu nome é Felipe de Araújo e sou um entusiasta da tecnologia com uma trajetó
 
 ## 
 ##
+##
 - 🌱 Graduando em Análise e Desenvolvimento de Sistemas.
 - 🌱 Foco meus estudos em: HTML 5, CSS 3, JAVASCRIPT, C# e .NET.
 - ⚡ Nada no mundo pode superar a persistência. 
